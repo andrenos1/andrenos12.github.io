@@ -2,6 +2,9 @@
 body{
 	margin: 0;
 	padding: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
 
 }
 a{
@@ -52,11 +55,21 @@ a{
 }
 
 .hire-me{
-	    margin-top: 15px;
+	margin-top: 15px;
+    color: white;
+    border-color: #00ACC1;
+    background: #00ACC1;
 }
 
 
 /*ОБО  мне*/
+
+.about{
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+
 
 .row{
 	margin-right: -15px;
